@@ -1,0 +1,11 @@
+{
+  "realm": "master",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhjueOroKRrMg3uBBt16XLLuuv9LtS9wUOpZUwMAHoJXpgWlc4rnNNWOm8W0Yi/sBqDLLJweH0NDzS5kN/rqeAqWefqQ5Q/p+DBY6uanEVAhyjpoNPjBUJEQCQBSkoL1TqmWaE7qiUR7XOjD6Y+JlYcdSr1o8C9o8RDz5NRwRvEoS8PsGohEwlrYsmjAchh01O6aXkcHltx0Uo48CXeefGMcpmCrqf0RiqFDGJa8QCjMmN3gxcCuDujEGqonUOf5XRghPQ12AjS4apSzs/uJUxX1YOINxcaVukLxBMLlRVhZ1u0Yx3Flvo53pP8TGhnvJDx4tqi35wcnbRu6rNincJQIDAQAB",
+  "auth-server-url": "http://test.login.vietcapitalbank.com.vn/auth",
+  "ssl-required": "external",
+  "resource": "test-scope-smaller",
+  "credentials": {
+    "secret": "de1fe67a-cf06-4fa6-b551-76e3a9c99d8c"
+  },
+  "use-resource-role-mappings": true
+}
